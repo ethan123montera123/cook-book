@@ -23,7 +23,7 @@ Here’s an overview of the project's file structure:
 First, clone the repository to your local machine:
 
 ```bash
-git clone <repository-url>
+git clone <https://github.com/ethan123montera123/cook-book>
 cd cook-book
 npm install
 npm run dev
