@@ -1,4 +1,4 @@
-# Pages 
+# Pages
 
 The Pages directory contains the main views of the application. Each page is responsible for rendering specific features and components for users to interact with. Pages are usually tied to routes within the application, and they manage the layout of their child components.
 
@@ -14,6 +14,7 @@ Some examples of pages that might be included in this directory are:
 Error Page: A page that shows when something goes wrong (e.g., 404 Not Found, 500 Server Error).
 
 ## Example Page
+
 Here is an example of a basic Login Page that uses components and services:
 
 ```jsx

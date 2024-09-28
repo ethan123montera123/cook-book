@@ -15,7 +15,6 @@ Welcome to the Cook Book website project! This is a modern React-based web appli
 
 Here’s an overview of the project's file structure:
 
-
 ## Setup and Installation
 
 ### 1. Clone the Repository
