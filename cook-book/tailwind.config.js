@@ -1,20 +1,20 @@
 /** @type {import('tailwindcss').Config} */
 
-module.exports = {
+export default {
     content: [
         "./src/**/*.{js,jsx,ts,tsx}",
     ],
     theme: {
         extend: {
             colors: {
-                dominant: '#D8D2C2',  // Light Greyish Tone
-                primary: '#4A4947',   // Medium Dark
-                accent: '#B17457',    // Accent Color
-                light: '#FAF7F0'      // Background Light Color
+                dominant: '#FAF7F0',  // Light Greyish Tone
+                primary: '#D8D2C2',   // Medium Dark
+                secondary: '#B17457',
+                accent: '#4A4947'      // Background Light Color
              },
 
             fontFamily: {
-                heading: ['Playfair Display', 'serif'], // For headers
+                heading: ['Poppins', 'sans-serif'], // For headers
                 body: ['Open Sans', 'sans-serif'],      // For body text
             },
         },

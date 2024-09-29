@@ -1,6 +1,6 @@
 import React from 'react';
 import Header from '../components/Header';
-import ContactForm from './ContactForm';
+import ContactForm from '../features/ContactForm';
 
 const ContactPage = () => {
   return (
