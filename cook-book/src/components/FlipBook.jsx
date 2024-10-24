@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import './FlipBook.css'; // Import the CSS for flip book styling
 
 const FlipBook = ({ pages }) => {

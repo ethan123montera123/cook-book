@@ -1,5 +1,4 @@
 // src/components/FloatingButton.jsx
-import React from 'react';
 import { Link } from 'react-router-dom';
 import './FloatingButton.css'; // Import the CSS for styling the button
 

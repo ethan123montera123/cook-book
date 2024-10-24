@@ -44,7 +44,7 @@ const Header = () => {
 
   return (
     <>
-      <header className="header p-4 bg-primary shadow-lg">
+      <header className="header p-4 bg-[#FAF7F0] shadow-lg">
         <div className="container mx-auto flex justify-between items-center">
           {/* Logo */}
           <div className="flex items-center">
