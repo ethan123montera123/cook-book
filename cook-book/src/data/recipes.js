@@ -33,7 +33,7 @@ const recipes = [
         {
         id: 2,
         title: "Vegan Buddha Bowl",
-        image: "https://example.com/images/vegan-buddha-bowl.jpg",
+        image: "https://i0.wp.com/infusedliving.net/wp-content/uploads/2020/09/Thai-buddha-bowl.png?resize=1024%2C768&ssl=1",
         ingredients: [
             "1 cup quinoa",
             "1 can chickpeas, drained and rinsed",
@@ -66,7 +66,7 @@ const recipes = [
         {
         id: 3,
         title: "Chocolate Lava Cake",
-        image: "https://example.com/images/chocolate-lava-cake.jpg",
+        image: "https://www.allrecipes.com/thmb/9vlX3vmUX8K2NfdVG0UWDAhhKYw=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/7272577-67dd531d7b4a48dbb254dcdaafa658d4.jpg",
         ingredients: [
             "100g dark chocolate, chopped",
             "100g unsalted butter",

@@ -5,8 +5,6 @@ import Procedure from "../components/Recipe/Procedure";
 import RecipeInfo from "../components/Recipe/RecipeInfo";
 import recipes from "../data/recipes";
 
-//TODO: make text not go beyond the right most edge of image
-
 const RecipePage = () => {
   return (
     <div className="">
