@@ -7,7 +7,7 @@ import recipes from "../data/recipes";
 
 const RecipePage = () => {
   return (
-    <div className="">
+    <div className="min-h-screen bg-gray-50">
       <Header />
         <div className="flex">
             <Ingredients ingredients={recipes[0].ingredients} />

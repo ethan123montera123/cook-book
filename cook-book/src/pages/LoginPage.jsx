@@ -1,9 +1,9 @@
-import React, { useState } from 'react';
 import { signInWithEmailAndPassword } from 'firebase/auth';
 import { auth } from '../firebase-config';
 import { Link } from 'react-router-dom';
 import Header from '../components/Header';
 import './AuthPage.css'; // Optional: for styling
+import { useState } from 'react';
 
 const LoginPage = () => {
   const [email, setEmail] = useState('');

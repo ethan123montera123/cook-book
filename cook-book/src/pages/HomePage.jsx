@@ -1,8 +1,8 @@
-import React from 'react';
+
 import Header from '../components/Header'; // Adjust path if necessary
-import RecipeCard from '../components/RecipeCard'; // If needed for featured recipes
-import CategoryCard from '../components/CategoryCard'; // If needed for categories
-import FlipBookPage from './FlipBookPage';
+import RecipeCard from '../components/Homepage/RecipeCard'; // If needed for featured recipes
+import CategoryCard from '../components/Homepage/CategoryCard'; // If needed for categories
+
 
 const HomePage = () => {
   return (
